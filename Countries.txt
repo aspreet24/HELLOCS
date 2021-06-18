@@ -1,0 +1,237 @@
+China[a]                                       Asia            1433783686
+India                                          Asia            1366417754
+United States                                  Americas        329064917 
+Indonesia                                      Asia            270625568 
+Pakistan                                       Asia            216565318 
+Brazil                                         Americas        211049527 
+Nigeria                                        Africa          200963599 
+Bangladesh                                     Asia            163046161 
+Russia                                         Europe          145872256 
+Mexico                                         Americas        127575529 
+Japan                                          Asia            126860301 
+Ethiopia                                       Africa          112078730 
+Philippines                                    Asia            108116615 
+Egypt                                          Africa          100388073 
+Vietnam                                        Asia            96462106  
+DR Congo                                       Africa          86790567  
+Germany                                        Europe          83517045  
+Turkey                                         Asia            83429615  
+Iran                                           Asia            82913906  
+Thailand                                       Asia            69037513  
+United Kingdom                                 Europe          67530172  
+France[b]                                      Europe          65129728  
+Italy                                          Europe          60550075  
+South Africa                                   Africa          58558270  
+Tanzania[c]                                    Africa          58005463  
+Myanmar                                        Asia            54045420  
+Kenya                                          Africa          52573973  
+South Korea                                    Asia            51225308  
+Colombia                                       Americas        50339443  
+Spain[d]                                       Europe          46736776  
+Argentina                                      Americas        44780677  
+Uganda                                         Africa          44269594  
+Ukraine[e]                                     Europe          43993638  
+Algeria                                        Africa          43053054  
+Sudan                                          Africa          42813238  
+Iraq                                           Asia            39309783  
+Afghanistan                                    Asia            38041754  
+Poland                                         Europe          37887768  
+Canada                                         Americas        37411047  
+Morocco                                        Africa          36471769  
+Saudi Arabia                                   Asia            34268528  
+Uzbekistan                                     Asia            32981716  
+Peru                                           Americas        32510453  
+Malaysia[f]                                    Asia            31949777  
+Angola                                         Africa          31825295  
+Mozambique                                     Africa          30366036  
+Yemen                                          Asia            29161922  
+Ghana                                          Africa          28833629  
+Nepal                                          Asia            28608710  
+Venezuela                                      Americas        28515829  
+Madagascar                                     Africa          26969307  
+North Korea                                    Asia            25666161  
+Ivory Coast                                    Africa          25716544  
+Cameroon                                       Africa          25876380  
+Australia[g]                                   Oceania         25203198  
+Taiwan[h]                                      Asia            23773876  
+Niger                                          Africa          23310715  
+Sri Lanka                                      Asia            21323733  
+Burkina Faso                                   Africa          20321378  
+Mali                                           Africa          19658031  
+Romania                                        Europe          19364557  
+Malawi                                         Africa          18628747  
+Chile                                          Americas        18952038  
+Kazakhstan                                     Asia            18551427  
+Zambia                                         Africa          17861030  
+Guatemala                                      Americas        17581472  
+Ecuador                                        Americas        17373662  
+Netherlands[i]                                 Europe          17097130  
+Syria                                          Asia            17070135  
+Cambodia                                       Asia            16486542  
+Senegal                                        Africa          16296364  
+Chad                                           Africa          15946876  
+Somalia                                        Africa          15442905  
+Zimbabwe                                       Africa          14645468  
+Guinea                                         Africa          12771246  
+Rwanda                                         Africa          12626950  
+Benin                                          Africa          11801151  
+Tunisia                                        Africa          11694719  
+Belgium                                        Europe          11539328  
+Bolivia                                        Americas        11513100  
+Cuba                                           Americas        11333483  
+Haiti                                          Americas        11263770  
+South Sudan                                    Africa          11062113  
+Burundi                                        Africa          10864245  
+Dominican Republic                             Americas        10738958  
+Czech Republic                                 Europe          10689209  
+Greece                                         Europe          10473455  
+Portugal                                       Europe          10226187  
+Jordan                                         Asia            10101694  
+Azerbaijan[j]                                  Asia            10047718  
+Sweden                                         Europe          10036379  
+United Arab Emirates                           Asia            9770529   
+Honduras                                       Americas        9746117   
+Hungary                                        Europe          9684679   
+Belarus                                        Europe          9452411   
+Tajikistan                                     Asia            9321018   
+Austria                                        Europe          8955102   
+Papua New Guinea                               Oceania         8776109   
+Serbia[k]                                      Europe          8772235   
+Switzerland                                    Europe          8591365   
+Israel                                         Asia            8519377   
+Togo                                           Africa          8082366   
+Sierra Leone                                   Africa          7813215   
+Hong Kong                                      Asia            7436154   
+Laos                                           Asia            7169455   
+Paraguay                                       Americas        7044636   
+Bulgaria                                       Europe          7000119   
+Lebanon                                        Asia            6855713   
+Libya                                          Africa          6777452   
+Nicaragua                                      Americas        6545502   
+El Salvador                                    Americas        6453553   
+Kyrgyzstan                                     Asia            6415850   
+Turkmenistan                                   Asia            5942089   
+Singapore                                      Asia            5804337   
+Denmark                                        Europe          5771876   
+Finland[l]                                     Europe          5532156   
+Slovakia                                       Europe          5457013   
+Congo                                          Africa          5380508   
+Norway[m]                                      Europe          5378857   
+Costa Rica                                     Americas        5047561   
+Palestine[n]                                   Asia            4981420   
+Oman                                           Asia            4974986   
+Liberia                                        Africa          4937374   
+Ireland                                        Europe          4882495   
+New Zealand                                    Oceania         4783063   
+Central African Republic                       Africa          4745185   
+Mauritania                                     Africa          4525696   
+Panama                                         Americas        4246439   
+Kuwait                                         Asia            4207083   
+Croatia                                        Europe          4130304   
+Moldova[o]                                     Europe          4043263   
+Georgia[p]                                     Asia            3996765   
+Eritrea                                        Africa          3497117   
+Uruguay                                        Americas        3461734   
+Bosnia and Herzegovina                         Europe          3301000   
+Mongolia                                       Asia            3225167   
+Armenia                                        Asia            2957731   
+Jamaica                                        Americas        2948279   
+Puerto Rico                                    Americas        2933408   
+lbania                                        Europe          2880917   
+Qatar                                          Asia            2832067   
+Lithuania                                      Europe          2759627   
+Namibia                                        Africa          2494530   
+Gambia                                         Africa          2347706   
+Botswana                                       Africa          2303697   
+Gabon                                          Africa          2172579   
+Lesotho                                        Africa          2125268   
+North Macedonia                                Europe          2083459   
+Slovenia                                       Europe          2078654   
+Guinea-Bissau                                  Africa          1920922   
+Latvia                                         Europe          1906743   
+Bahrain                                        Asia            1641172   
+Trinidad and Tobago                            Americas        1394973   
+Equatorial Guinea                              Africa          1355986   
+Estonia                                        Europe          1325648   
+East Timor                                     Asia            1293119   
+Mauritius[q]                                   Africa          1198575   
+Cyprus[r]                                      Asia            1179551   
+Eswatini                                       Africa          1148130   
+Djibouti                                       Africa          973560    
+Fiji                                           Oceania         889953    
+R�union                                        Africa          888927    
+Comoros                                        Africa          850886    
+Guyana                                         Americas        782766    
+Bhutan                                         Asia            763092    
+Solomon Islands                                Oceania         669823    
+Macau                                          Asia            640445    
+Montenegro                                     Europe          627987    
+Luxembourg                                     Europe          615729    
+Western Sahara                                 Africa          582463    
+Suriname                                       Americas        581372    
+Cape Verde                                     Africa          549935    
+Maldives                                       Asia            530953    
+Guadeloupe[s]                                  Americas        447905    
+Malta                                          Europe          440372    
+Brunei                                         Asia            433285    
+Belize                                         Americas        390353    
+Bahamas                                        Americas        389482    
+Martinique                                     Americas        375554    
+Iceland                                        Europe          339031    
+Vanuatu                                        Oceania         299882    
+Barbados                                       Americas        287025    
+New Caledonia                                  Oceania         282750    
+French Guiana                                  Americas        282731    
+French Polynesia                               Oceania         279287    
+Mayotte                                        Africa          266150    
+S�o Tom� and Pr�ncipe                        Africa          215056    
+Western Samoa                                  Oceania         197097    
+Saint Lucia                                    Americas        182790    
+Guernsey�and��Jersey                         Europe          172259    
+Guam                                           Oceania         167294    
+Cura�ao                                       Americas        163424    
+Kiribati                                       Oceania         117606    
+F.S. Micronesia                                Oceania         113815    
+Grenada                                        Americas        112003    
+Tonga                                          Oceania         110940    
+Saint Vincent and the Grenadines               Americas        110589    
+Aruba                                          Americas        106314    
+U.S. Virgin Islands                            Americas        104578    
+Seychelles                                     Africa          97739     
+Antigua and Barbuda                            Americas        97118     
+Isle of Man                                    Europe          84584     
+Andorra                                        Europe          77142     
+Dominica                                       Americas        71808     
+Cayman Islands                                 Americas        64948     
+Bermuda                                        Americas        62506     
+Marshall Islands                               Oceania         58791     
+Greenland                                      Americas        56672     
+Northern Mariana Islands                       Oceania         56188     
+American Samoa                                 Oceania         55312     
+Saint Kitts and Nevis                          Americas        52823     
+Faroe Islands                                  Europe          48678     
+Sint Maarten                                   Americas        42388     
+Monaco                                         Europe          38964     
+Turks and Caicos Islands                       Americas        38191     
+Liechtenstein                                  Europe          38019     
+San Marino                                     Europe          33860     
+Gibraltar                                      Europe          33701     
+British Virgin Islands                         Americas        30030     
+Caribbean Netherlands[t]                       Americas        25979     
+Palau                                          Oceania         18008     
+Cook Islands                                   Oceania         17548     
+Anguilla                                       Americas        14869     
+Tuvalu                                         Oceania         11646     
+Wallis and Futuna                              Oceania         11432     
+Nauru                                          Oceania         10756     
+Saint Helena, Ascension and Tristan da Cunha   Africa          6059      
+Saint Pierre and Miquelon                      Americas        5822      
+Montserrat                                     Americas        4989      
+Falkland Islands                               Americas        3377      
+Niue                                           Oceania         1615      
+Tokelau                                        Oceania         1340      
+Vatican City[u]                                Europe          799       
+China[a]:  Asia:  1433783686
+India:  Asia:  1366417754
+United States:  Americas:  329064917 
+Indonesia:  Asia:  270625568    
